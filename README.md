@@ -1,3 +1,5 @@
+# teste
+
 <h1 align="center">Hi 👋, I'm Pedro Garcez</h1>
 ![Alt text](![IMG_0612-2](https://github.com/user-attachments/assets/0fb43a4c-5d0c-4450-b65d-63100b742890)
 )
